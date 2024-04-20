@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @JFR35
+- 👋 Hola, soy Juan
 
