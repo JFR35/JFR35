@@ -1,7 +1,7 @@
 - 👋 Hola, soy Juan
 
 # Título del Proyecto
-![Imagen de Portada](https://wallpapercrafter.com/desktop/111381-Terminator-2-T-800-cyborg-Arnold-Schwarzenegger-chains-fire-drawing.jpg)
+![Imagen de Portada](https://th.bing.com/th/id/OIP.uWU8zrX_is8JTrPVqitFjgAAAA?rs=1&pid=ImgDetMain)
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
 ## Características
